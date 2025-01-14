@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cagat\\source\\repos\\Hafta2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC41FB4-F4FB-4D48-B126-858EC7F0C869}|Hafta2\\Hafta2.csproj|c:\\users\\cagat\\source\\repos\\hafta2\\hafta2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC41FB4-F4FB-4D48-B126-858EC7F0C869}|Hafta2\\Hafta2.csproj|solutionrelative:hafta2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\Hafta2\\Hafta2\\Program.cs",
+              "RelativeDocumentMoniker": "Hafta2\\Program.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\Hafta2\\Hafta2\\Program.cs",
+              "RelativeToolTip": "Hafta2\\Program.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwGkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:21:39.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
